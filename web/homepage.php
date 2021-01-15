@@ -3,9 +3,9 @@
 <div id="mainWrapper">
     <div id="sidebar">
         <ul>
-            <li><a href="#" onclick="bio" id="bio">Dossier</a></li>
-            <li><a href="#"  onclick="statSheet" id="statSheet">Stats</a></li>
-            <li onclick="skillSheet" id="skillSheet">Skills</li>
+            <li onclick="bio()" id="bio">Dossier</li>
+            <lionclick="statSheet()" id="statSheet">Stats</li>
+            <li onclick="skillSheet()" id="skillSheet">Skills</li>
         </ul>
     </div>
 
