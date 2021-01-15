@@ -25,9 +25,9 @@ header {
 }
 
 nav {
-    margin-left: 210px;
-    margin-top: -55px;
-    padding-left: 5px;
+    margin-left: 190px;
+    margin-top: -54px;
+    padding-left: 25px;
     background: #c2a557;
     border-style: groove none none none;
 }
@@ -47,18 +47,19 @@ nav li a {
     padding: 15px;
     text-decoration: none;
     width: 100px;
+    font-weight: bold;
 }
 
 nav li a:hover {
     background-color: #f6eec5;
     color: black;
-    font-weight: bold;
+    font-weight: normal;
 }
 
 nav li .active {
     background-color: #f6eec5;
     color: #a786f5;
-    font-weight: bold;
+    font-weight: normal;
 }
 
 h1 {
