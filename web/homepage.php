@@ -36,6 +36,7 @@
             <p id="caption">Image credited to Savannah Trowbridge</p>
         </div>
         <div id="statSheet">
+            <h1>Statistics</h1>
             <table>
                 <tr>
                     <td>Name:</td>
@@ -75,7 +76,7 @@
                     <td>Superb, hardly ever gets sick</td>
                 </tr>
                 <tr>
-                    <td>Intelligence</td>
+                    <td>Intelligence:</td>
                     <td>Higher than average but nowhere near enough to answer child's questions</td>
                 </tr>
                 <tr>
@@ -101,6 +102,7 @@
             </table>
         </div>
         <div id="skillSheet">
+            <h1>Skill Chart</h1>
             <div id="chartContainer"></div>
         </div>
     </div>

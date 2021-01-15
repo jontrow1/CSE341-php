@@ -60,7 +60,7 @@ nav li a:hover {
     font-weight: bold;
 }
 
-nav li .active {
+nav li:active {
     background-color: #f6eec5;
     color: #a786f5;
     font-weight: bold;
@@ -151,6 +151,10 @@ main {
     display: none;
 }
 
+td {
+    padding: 15px;
+}
+
 #skillSheet {
     display: none;
 }
@@ -162,6 +166,16 @@ main {
 
 #viewports ul {
     list-style-type: none;
+}
+
+#viewport li a {
+    color: white;
+    text-decoration: none;
+}
+
+#viewport li a:hover {
+    color: #a786f5;
+    font-weight: bold;
 }
 
 #weeks {
