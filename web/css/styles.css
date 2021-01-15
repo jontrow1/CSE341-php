@@ -113,6 +113,18 @@ main {
     padding: 10px;
 }
 
+#bioPage {
+    display: block;
+}
+
+#statPage {
+    display: none;
+}
+
+#skillPage {
+    display: none;
+}
+
 footer {
     background-color: #c2a557;
     border-bottom-left-radius: 50px;
