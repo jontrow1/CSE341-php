@@ -9,7 +9,6 @@ header {
     border-bottom-left-radius: 100px;
     border-top-left-radius: 100px;
     max-height: 201px;
-    /*margin-bottom: 0;*/
 }
 
 #logo {
@@ -70,8 +69,17 @@ h1 {
 main {
     background-color: #c2a557;
     margin-left: 100px;
-    /*margin-top: 0;
-    margin-bottom: 0;*/
+}
+
+#sidebar {
+    height: 100%;
+    width: 200px;
+    position: relative;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+    padding-top: 50px;
 }
 
 #sidebar ul {
@@ -83,8 +91,6 @@ footer {
     border-bottom-left-radius: 50px;
     margin-left: 100px;
     text-align: center;
-    /*margin-top: 0;
-    margin-bottom: 0;*/
-    padding: 10px;
+    padding: 5px;
 }
 
