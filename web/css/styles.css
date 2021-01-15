@@ -65,10 +65,6 @@ nav li .active {
     font-weight: bold;
 }
 
-h1 {
-    font-family: 'Itim', cursive;
-}
-
 main {
     background-color: #c2a557;
     margin-left: 100px;
@@ -103,6 +99,7 @@ main {
 
 #sidebar li p {
     margin-top: 0;
+    font-family: 'Itim', cursive;
 }
 
 .smallButton {
@@ -136,6 +133,22 @@ main {
 }
 
 #skillSheet {
+    display: none;
+}
+
+#viewports ul {
+    list-style-type: none;
+}
+
+#weeks {
+    display: block;
+}
+
+#teams {
+    display: none;
+}
+
+#projs {
     display: none;
 }
 
