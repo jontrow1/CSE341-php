@@ -28,7 +28,7 @@
                 as that is his true passion.</p>
             <p>Jon Trowbridge loves his family dearly and would do anything for them. That is the main reason he now lives in Florida, working in a place that he does not particularly like.
                 It's also the reason why he does things like playing with barbies, growing a garden full of vegetables he doesn't like, taking care of two cats that he is allergic to, and eating gluten-free foods.</p>
-            <span id="caption">Image credited to Savannah Trowbridge</span>
+            <p id="caption">Image credited to Savannah Trowbridge</p>
         </div>
         <div id="statSheet">This is some stats.</div>
         <div id="skillSheet">Here are my credentials</div>
