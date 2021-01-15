@@ -6,7 +6,8 @@ function bio() {
         bio.style.display = "block";
         if (stat.style.display = "block") {
             stat.style.display = "none";
-        } else if (skill.style.display = "block") {
+        } 
+        if (skill.style.display = "block") {
             skill.style.display = "none";
         }
     }
@@ -20,7 +21,8 @@ function statSheet() {
         stat.style.display = "block";
         if (bio.style.display = "block") {
             bio.style.display = "none";
-        } else if (skill.style.display = "block") {
+        } 
+        if (skill.style.display = "block") {
             skill.style.display = "none";
         }
     }
@@ -34,7 +36,8 @@ function skillSheet() {
         skill.style.display = "block";
         if (stat.style.display = "block") {
             stat.style.display = "none";
-        } else if (bio.style.display = "block") {
+        } 
+        if (bio.style.display = "block") {
             bio.style.display = "none";
         }
     }
