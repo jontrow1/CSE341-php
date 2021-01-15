@@ -18,7 +18,7 @@ header {
 
 #pageTitle {
     float: right;
-    margin-top: 85px;
+    margin-top: 57px;
     margin-right: 30px;
     font-size: 30px;
     font-family: 'Itim', cursive;
@@ -59,10 +59,26 @@ nav li a:hover {
 nav li .active {
     background-color: #f6eec5;
     color: #a786f5;
-    font-weight: normal;
+    font-weight: bold;
 }
 
 h1 {
     font-family: 'Itim', cursive;
+}
+
+main {
+    background-color: #c2a557;
+    margin-left: 100px;
+}
+
+footer {
+    background-color: #c2a557;
+    border-bottom-left-radius: 100px;
+    margin-left: 100px;
+    text-align: center;
+}
+
+footer p {    
+    line-height: 100%;
 }
 
