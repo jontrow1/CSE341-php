@@ -13,14 +13,15 @@
             </li>
             <li>
                 <button  onclick="projs()" class="smallButton"></button>
-                <p>Projects</p>
+                <p>Project</p>
             </li>
         </ul>
     </div>
 
     <div id="viewports">    
         <div id="weeks">
-            <h1>Coming Soon</h1>
+            <h1>Weekly Prove Assignments</h1>
+            <p>Coming Soon!</p>
         </div>
         <div id="teams">
             <h1>Weekly Team Assignments</h1>
@@ -29,7 +30,8 @@
             </ul>
         </div>
         <div id="projs">
-            <h1>Coming Soon</h1>
+            <h1>Projects</h1>
+            <p>Coming Soon!</p>
         </div>
     </div>
 </div>
