@@ -14,7 +14,7 @@
         <header>
             <div id="header">
                 <img src="/images/headerLogo.png" alt="Jon Trowbridge Logo" id="logo">
-                <p id="pageTitle">CSE 341 - Jonathan Trowbridge | Home</p>
+                <p id="pageTitle">CSE 341 - Jonathan Trowbridge</p>
             </div>
         </header>
 
