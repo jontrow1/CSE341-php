@@ -7,5 +7,6 @@
     </div>
     <script src="../js/functions.js"></script>
     <script src="../js/piechart.js"></script>
+    <script type="text/javascript" src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
 </body>
 </html>
