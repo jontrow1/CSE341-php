@@ -26,7 +26,7 @@ header {
 
 nav {
     margin-left: 100px;
-    margin-top: -55px;
+    margin-top: -57px;
     padding-left: 115px;
     background: #c2a557;
     border-style: groove none groove none;
@@ -71,9 +71,14 @@ main {
     margin-left: 100px;
 }
 
+#mainWrapper {
+    display: flex;
+    justify-content: flex-start;
+}
+
 #sidebar {
     background-color: #c2a557;
-    display: flex;
+    display: block;
     height: 700px;
     width: 200px;
 }
@@ -87,8 +92,9 @@ main {
 }
 
 #viewports {
-    background-color: #f6eec5;
-    color: #a786f5;
+    display: block;
+    background-color: #b157c2;
+    color: white;
 }
 
 footer {
