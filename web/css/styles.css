@@ -26,10 +26,10 @@ header {
 
 nav {
     margin-left: 210px;
-    margin-top: -30px;
+    margin-top: -60px;
     padding-left: 5px;
     background: #c2a557;
-    border-style: groove;
+    border-style: none groove none groove;
 }
 
 nav ul {
