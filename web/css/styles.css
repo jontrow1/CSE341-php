@@ -86,6 +86,11 @@ main {
     margin: 0;
 }
 
+#viewports {
+    background-color: #f6eec5;
+    color: #a786f5;
+}
+
 footer {
     background-color: #c2a557;
     border-bottom-left-radius: 50px;

@@ -8,8 +8,10 @@
     </ul>
 </div>
 
-<div id="bioPage"></div>
-<div id="statPage"></div>
-<div id="skillPage"></div>
+<div id="viewports">    
+    <div id="bioPage">This is some bio information.</div>
+    <div id="statPage">This is some stats.</div>
+    <div id="skillPage">Here are my credentials</div>
+</div>
 
 <?php include $_SERVER['DOCUMENT_ROOT'] . '/snippits/footer.php'; ?>
