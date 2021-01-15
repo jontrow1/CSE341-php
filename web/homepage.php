@@ -19,7 +19,16 @@
     </div>
 
     <div id="viewports">    
-        <div id="bio">This is some bio information.</div>
+        <div id="bio">
+            <img src="/images/bioPic.jpg" alt="Picture of Jon playing golf">
+            <p> Jon Trowbridge lives in sunny Florida with his wife, Heather and (2) two daughters, Alexis - age 12, and Savannah - 6.
+                He has another child, Oliver - age 23, who still lives in Michigan with his fiancée, Emily - age unsure, and his son, Vincent - age 2.<br>
+                Jon Trowbridge is a 35-year-old male who enjoys playing different types of games, ranging from video games to tabletop games and anything in between.
+                Most of the time, Jon can be found on his computer or his PS4 <i>when his family is away</i> otherwise he can be found spending time with them
+                as that is his true passion. <br>
+                Jon Trowbridge loves his family dearly and would do anything for them. That is the main reason he now lives in Florida, working in a place that he does not particularly like.
+                It's also the reason why he does things like playing with barbies, growing a garden full of vegetables he doesn't like, taking care of two cats that he is allergic to, and eating gluten-free foods.
+        </div>
         <div id="statSheet">This is some stats.</div>
         <div id="skillSheet">Here are my credentials</div>
     </div>
