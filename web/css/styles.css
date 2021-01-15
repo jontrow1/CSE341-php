@@ -8,7 +8,7 @@ header {
     background-color: #c2a557;
     border-bottom-left-radius: 100px;
     border-top-left-radius: 100px;
-    max-height: 200px;
+    max-height: 201px;
 }
 
 #logo {
@@ -25,8 +25,11 @@ header {
 }
 
 nav {
+    margin-left: 210px;
+    margin-top: -30px;
     padding-left: 5px;
-    background: #3a3a3a;
+    background: #c2a557;
+    border-style: groove;
 }
 
 nav ul {
