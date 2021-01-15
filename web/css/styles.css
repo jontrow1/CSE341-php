@@ -3,6 +3,40 @@
     height: 100px;
 }
 
+nav {
+    padding-left: 5px;
+    background: #3a3a3a;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-start;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: #a6cbeb;
+    color: #3a3a3a;
+    font-weight: bold;
+}
+
+nav .active {
+    background-color: #4c96d7;
+    color: #3a3a3a;
+    font-weight: bold;
+}
+
+
 body {
     font-family: 'PT Sans Caption', sans-serif;
 }
