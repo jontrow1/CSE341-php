@@ -9,7 +9,7 @@
             </li>
             <li>
                 <button onclick="teams()" class="smallButton"></button>
-                <p>Team assignments</p>
+                <p>Team Assignments</p>
             </li>
             <li>
                 <button  onclick="projs()" class="smallButton"></button>

@@ -33,6 +33,7 @@ nav {
     padding-left: 115px;
     background: #c2a557;
     border-style: groove none groove none;
+    border-color: #f6eec5;
 }
 
 nav ul {
@@ -89,8 +90,8 @@ main {
     margin: 0;
     position: absolute;
     top: 25%;
+    left: 50%;
     list-style-type: none;
-    text-align: center;
 }
 
 #sidebar li:not(:first-child) {
