@@ -1,3 +1,8 @@
+function getDate() {
+    var date = document.lastModified;
+    document.getElementById("date").innerHTML = date;
+}
+
 function bio() {
     var bio = document.getElementById("bio");
     var stat = document.getElementById("statSheet");

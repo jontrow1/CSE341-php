@@ -102,7 +102,6 @@
             </table>
         </div>
         <div id="skillSheet">
-            <h1>Skill Chart</h1>
             <div id="chartContainer"></div>
         </div>
     </div>
