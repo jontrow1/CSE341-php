@@ -69,6 +69,7 @@ h1 {
 main {
     background-color: #c2a557;
     margin-left: 100px;
+    position: relative;
 }
 
 #sidebar {
