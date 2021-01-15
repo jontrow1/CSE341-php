@@ -19,7 +19,7 @@
         </header>
 
         <nav>
-            <?php include $_SERVER['DOCUMENT_ROOT'] . '/phpmotors/snippits/navigation.php'; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT'] . '/snippits/navigation.php'; ?>
         </nav>
 
         <main>
