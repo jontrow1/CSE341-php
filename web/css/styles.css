@@ -136,7 +136,7 @@ main {
 }
 
 #bio p:first-child {
-    margin-top: 0;
+    margin-top: -10px;
 }
 
 #bio p:not(:first-child) {
