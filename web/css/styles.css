@@ -92,6 +92,7 @@ main {
     top: 25%;
     left: 15%;
     list-style-type: none;
+    text-align: center;
 }
 
 #sidebar li:not(:first-child) {
@@ -101,7 +102,6 @@ main {
 #sidebar li p {
     margin-top: 0;
     font-family: 'Itim', cursive;
-    text-align: center;
 }
 
 .smallButton {
