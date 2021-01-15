@@ -3,9 +3,18 @@
 <div id="mainWrapper">
     <div id="sidebar">
         <ul>
-            <li onclick="bio()">Dossier</li>
-            <li onclick="statSheet()">Stats</li>
-            <li onclick="skillSheet()">Skills</li>
+            <li>
+                <button onclick="bio()" class="smallButton"></button>
+                <p>Dossier</p>
+            </li>
+            <li>
+                <button onclick="statSheet()" class="smallButton"></button>
+                <p>Stats</p>
+            </li>
+            <li>
+                <button  onclick="skillSheet()" class="smallButton"></button>
+                <p>Skills</p>
+            </li>
         </ul>
     </div>
 
