@@ -134,6 +134,7 @@ main {
 #bio img {
     float: left;
     padding: 0 15px 15px 0;
+    width: 300px;
 }
 
 #bio p:not(:first-child) {
