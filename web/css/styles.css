@@ -76,8 +76,8 @@ main {
     width: 200px;
     position: fixed;
     z-index: 1;
-    top: -205px;
-    left: -105px;
+    top: 205px;
+    left: 105px;
     overflow-x: hidden;
     padding-top: 25px;
 }
