@@ -2,7 +2,7 @@
 
         <footer>
             <p>&copy; Jon Trowbridge, All rights reserved.<br>
-            Color scheme chosen by a six-year-old. Credits: Savannah Trowbridge. | Last Updated: <span id="currentDate"></span></p>
+            Color scheme chosen by a six-year-old. Credits: Savannah Trowbridge. | <span id="currentDate"></span></p>
         </footer>
     </div>
     <script src="../js/functions.js"></script>
