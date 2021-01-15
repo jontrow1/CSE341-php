@@ -20,7 +20,10 @@
 
     <div id="viewports">    
         <div id="bio">
-            <img src="/images/bioPic.jpg" alt="Picture of Jon playing golf">
+            <figure>
+                <img src="/images/bioPic.jpg" alt="Picture of Jon playing golf">
+                <figcaption>Taken by Savannah</figcaption>
+            </figure>
             <p> Jon Trowbridge lives in sunny Florida with his wife, Heather and (2) two daughters, Alexis - age 12, and Savannah - 6.
                 He has another child, Oliver - age 23, who still lives in Michigan with his fiancée, Emily - age unsure, and his son, Vincent - age 2.</p>
             <p>Jon Trowbridge is a 35-year-old male who enjoys playing different types of games, ranging from video games to tabletop games and anything in between.
