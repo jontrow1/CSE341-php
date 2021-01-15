@@ -1,6 +1,13 @@
+body {
+    max-width: 1000px;
+    width: 100%;
+    background-color: #C2a557;
+    font-family: 'PT Sans Caption', sans-serif;
+}
+
 #logo {
-    width: 100px;
-    height: 100px;
+    width: 300px;
+    height: 300px;
 }
 
 nav {
@@ -34,11 +41,6 @@ nav .active {
     background-color: #4c96d7;
     color: #3a3a3a;
     font-weight: bold;
-}
-
-
-body {
-    font-family: 'PT Sans Caption', sans-serif;
 }
 
 h1 {
