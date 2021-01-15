@@ -9,6 +9,7 @@ header {
     border-bottom-left-radius: 100px;
     border-top-left-radius: 100px;
     max-height: 201px;
+    margin-bottom: 0;
 }
 
 #logo {
@@ -69,6 +70,8 @@ h1 {
 main {
     background-color: #c2a557;
     margin-left: 100px;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 footer {
@@ -76,9 +79,12 @@ footer {
     border-bottom-left-radius: 100px;
     margin-left: 100px;
     text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 10px;
 }
 
 footer p {    
-    line-height: 100%;
+    line-height: 75%;
 }
 
