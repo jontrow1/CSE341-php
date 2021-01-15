@@ -1,8 +1,11 @@
 body {
     max-width: 1000px;
     width: 100%;
-    background-color: #C2a557;
     font-family: 'PT Sans Caption', sans-serif;
+}
+
+header {
+    background-color: #c2a557;
 }
 
 #logo {
