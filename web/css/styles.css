@@ -57,7 +57,7 @@ nav li a {
 nav li a:hover {
     background-color: #f6eec5;
     color: black;
-    font-weight: normal;
+    font-weight: bold;
 }
 
 nav li .active {
@@ -90,7 +90,7 @@ main {
     margin: 0;
     position: absolute;
     top: 25%;
-    left: 50%;
+    left: 25%;
     list-style-type: none;
 }
 
