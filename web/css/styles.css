@@ -98,14 +98,18 @@ main {
 }
 
 #sidebar li:not(:first-child) {
-    padding-top: 25px;
+    padding-top: 30px;
+}
+
+#sidebar li p {
+    margin-top: -5px;
 }
 
 .smallButton {
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    border: double 3px #776534;
+    border: double 4px #776534;
     background-color: #b157c2;
 }
 
