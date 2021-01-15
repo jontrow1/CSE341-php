@@ -6,5 +6,6 @@
         </footer>
     </div>
     <script src="../js/functions.js"></script>
+    <script src="../js/piechart.js"></script>
 </body>
 </html>

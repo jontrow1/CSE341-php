@@ -155,6 +155,11 @@ main {
     display: none;
 }
 
+#chartContainer {
+    height: 500px;
+    width: 100%;
+}
+
 #viewports ul {
     list-style-type: none;
 }

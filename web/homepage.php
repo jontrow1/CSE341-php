@@ -36,7 +36,9 @@
             <p id="caption">Image credited to Savannah Trowbridge</p>
         </div>
         <div id="statSheet">This is some stats.</div>
-        <div id="skillSheet">Here are my credentials</div>
+        <div id="skillSheet">
+            <div id="chartContainer" style="height: 300px; width: 100%;"></div>
+        </div>
     </div>
 </div>
 
