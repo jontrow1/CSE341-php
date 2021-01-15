@@ -8,11 +8,11 @@ header {
     background-color: #c2a557;
     border-bottom-left-radius: 100px;
     border-top-left-radius: 100px;
-    max-height: 201px;
+    max-height: 202px;
 }
 
 #logo {
-    margin-left: 2px;
+    margin-left: 1px;
     margin-top: 1px;
 }
 
@@ -29,7 +29,7 @@ nav {
     margin-top: -54px;
     padding-left: 25px;
     background: #c2a557;
-    border-style: groove none none none;
+    border-style: groove none groove none;
 }
 
 nav ul {
@@ -74,12 +74,12 @@ main {
 #sidebar {
     height: 100%;
     width: 200px;
-    position: relative;
+    position: fixed;
     z-index: 1;
     top: 0;
     left: 0;
     overflow-x: hidden;
-    padding-top: 50px;
+    padding-top: 25px;
 }
 
 #sidebar ul {
