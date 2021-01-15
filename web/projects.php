@@ -19,17 +19,17 @@
     </div>
 
     <div id="viewports">    
-        <div id="weeks">
+        <div id="weeks" class="viewports">
             <h1>Weekly Prove Assignments</h1>
             <p>Coming Soon!</p>
         </div>
-        <div id="teams">
+        <div id="teams" class="viewports">
             <h1>Weekly Team Assignments</h1>
             <ul>
                 <li><a href="/week2/team1.html" title="Week 2 team Assignment">Week 2</a></li>
             </ul>
         </div>
-        <div id="projs">
+        <div id="projs" class="viewports">
             <h1>Projects</h1>
             <p>Coming Soon!</p>
         </div>

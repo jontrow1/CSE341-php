@@ -152,7 +152,8 @@ main {
 }
 
 td {
-    padding: 15px;
+    padding-right: 15px;
+    padding-top: 2px;
 }
 
 #skillSheet {
@@ -164,16 +165,16 @@ td {
     width: 100%;
 }
 
-#viewports ul {
+.viewports ul {
     list-style-type: none;
 }
 
-#viewport li a {
+.viewports li a {
     color: white;
     text-decoration: none;
 }
 
-#viewport li a:hover {
+.viewports li a:hover {
     color: #a786f5;
     font-weight: bold;
 }
