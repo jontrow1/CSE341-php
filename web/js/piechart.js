@@ -6,7 +6,7 @@ window.onload = function () {
 		},
 		legend: {
 			maxWidth: 600,
-			itemWidth: 400
+			itemWidth: 600
 		},
 		data: [
 		{
