@@ -4,7 +4,7 @@
     <div id="sidebar">
         <ul>
             <li onclick="bio()">Dossier</li>
-            <lionclick="statSheet()">Stats</li>
+            <li onclick="statSheet()">Stats</li>
             <li onclick="skillSheet()">Skills</li>
         </ul>
     </div>
