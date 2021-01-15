@@ -35,7 +35,71 @@
                 roleplaying, though his wife mocks him for playing pretend house like a child.</p>
             <p id="caption">Image credited to Savannah Trowbridge</p>
         </div>
-        <div id="statSheet">This is some stats.</div>
+        <div id="statSheet">
+            <table>
+                <tr>
+                    <td>Name:</td>
+                    <td>Jon Trowbridge</td>
+                </tr>
+                <tr>
+                    <td>Level:</td>
+                    <td>35</td>
+                </tr>
+                <tr>
+                    <td>Race:</td>
+                    <td>Human</td>
+                </tr>
+                <tr>
+                    <td>Health:</td>
+                    <td>100% (Covid-free)</td>
+                </tr>
+                <tr>
+                    <td>Mana:</td>
+                    <td>0 (This is real life)</td>
+                </tr>
+                <tr>
+                    <td>Stamina:</td>
+                    <td>Average</td>
+                </tr>
+                <tr>
+                    <td>Strength:</td>
+                    <td>20 push-ups is about maximum</td>
+                </tr>
+                <tr>
+                    <td>Dexterity:</td>
+                    <td>Can weave in and out through Disney pretty easily</td>
+                </tr>
+                
+                <tr>
+                    <td>Constitution:</td>
+                    <td>Superb, hardly ever gets sick</td>
+                </tr>
+                <tr>
+                    <td>Intelligence</td>
+                    <td>Higher than average but nowhere near enough to answer child's questions</td>
+                </tr>
+                <tr>
+                    <td>Wisdom:</td>
+                    <td>Getting wiser everyday</td>
+                </tr>
+                <tr>
+                    <td>Charisma:</td>
+                    <td>Ready to feel awkward</td>
+                </tr>
+                <tr>
+                    <td>Abilities:</td>
+                    <td>Sewing, Reading, Gaming, Woodworking, Gardening</td>
+                </tr>
+                <tr>
+                    <td>Alignment:</td>
+                    <td>Neutral Good</td>
+                </tr>
+                <tr>
+                    <td>Languages:</td>
+                    <td>English, can say doesn't speak French in French, process of learning Spanish
+                </tr>
+            </table>
+        </div>
         <div id="skillSheet">
             <div id="chartContainer"></div>
         </div>
