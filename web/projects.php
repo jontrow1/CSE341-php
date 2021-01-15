@@ -5,11 +5,11 @@
         <ul>
             <li>
                 <button onclick="weeks()" class="smallButton"></button>
-                <p>Weekly Assignments</p>
+                <p>Proves</p>
             </li>
             <li>
                 <button onclick="teams()" class="smallButton"></button>
-                <p>Team Assignments</p>
+                <p>Teams</p>
             </li>
             <li>
                 <button  onclick="projs()" class="smallButton"></button>
