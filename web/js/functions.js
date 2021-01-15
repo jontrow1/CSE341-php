@@ -1,7 +1,5 @@
-function getDate() {
-    var date = document.lastModified;
-    document.getElementById("date").innerHTML = date;
-}
+const options = {month: 'long', day: 'numeric', year: 'numeric'};
+document.getElementById('currentDate').textContent = new Date().toLocaleDateString('en-US', options);
 
 function bio() {
     var bio = document.getElementById("bio");
