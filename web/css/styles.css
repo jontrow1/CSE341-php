@@ -132,7 +132,15 @@ main {
 
 #bio img {
     float: left;
-    padding: 0 5px 5px 0;
+    padding: 0 15px 15px 0;
+}
+
+#bio p:first-child {
+    margin-top: 0;
+}
+
+#bio p:not(:first-child) {
+    padding-top: 5px;
 }
 
 #statSheet {
