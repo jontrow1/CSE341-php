@@ -1,11 +1,13 @@
 body {
-    max-width: 1000px;
+    max-width: 1200px;
     width: 100%;
     font-family: 'PT Sans Caption', sans-serif;
 }
 
 header {
     background-color: #c2a557;
+    border-bottom-left-radius: 100px;
+    border-top-left-radius: 100px;
 }
 
 #logo {
