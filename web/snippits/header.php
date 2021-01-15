@@ -13,15 +13,7 @@
     <div id="wrapper">
         <header>
             <div id="header">
-                <img src="/phpmotors/images/site/logo.png" alt="PHP Motors Logo" id="logo">
-                <?php if(isset($_SESSION['loggedin'])) {
-                    echo "<a href='/phpmotors/accounts/index.php?action=Logout' title='Logout of your account' id='logout_link'>Logout</a>";
-                    } else {
-                        echo "<a href='/phpmotors/accounts/index.php?action=login' title='Login to your account' id='account_link'>My Account</a>"; } ?>
-                <?php if (isset($_SESSION['loggedin'])) {
-                    $welcomeFirst = $_SESSION['clientData']['clientFirstname'];
-                    echo "<a href='/phpmotors/accounts/index.php' title='Go to your admin page'><span>Welcome $welcomeFirst</span></a>";
-                } ?>
+                <img src="/images/headerLogo.png" alt="Jon Trowbridge Logo" id="logo">
             </div>
         </header>
 
