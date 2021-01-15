@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8"/>
-    <title>Jon Trowbridge Homepage | CSE 341</title>
+    <title>Jon Trowbridge | CSE 341</title>
     <link href="/css/styles.css" type="text/css" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css2?family=Itim&family=PT+Sans+Caption&display=swap" rel="stylesheet">
