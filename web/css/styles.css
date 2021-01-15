@@ -69,7 +69,6 @@ h1 {
 main {
     background-color: #c2a557;
     margin-left: 100px;
-    position: relative;
 }
 
 #sidebar {
@@ -77,8 +76,8 @@ main {
     width: 200px;
     position: fixed;
     z-index: 1;
-    top: 0;
-    left: 0;
+    top: -205px;
+    left: -105px;
     overflow-x: hidden;
     padding-top: 25px;
 }
