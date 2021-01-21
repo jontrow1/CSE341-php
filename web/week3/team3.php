@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <form action="displayTeam3" method="POST">
+    <form action="displayTeam3.php" method="POST">
         <label for="name">Name:</label>
         <input type="text" id="name" name="name"><br>
         <label for="email">E-mail:</label>
