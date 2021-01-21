@@ -13,10 +13,10 @@
     echo "<a href='mailto: . $_POST[email]'>Send Email</a><br>";
 
     $majors  = [
-        'Computer Science',
-        'Web Design and Development',
-        'Computer Information Technology',
-        'Computer Engineering'
+        'cs' => 'Computer Science',
+        'wdd' => 'Web Design and Development',
+        'cit' => 'Computer Information Technology',
+        'ce' => 'Computer Engineering'
         ];
 
 

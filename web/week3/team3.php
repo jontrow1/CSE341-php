@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <form action="" method="POST">
+    <form action="displayTeam3" method="POST">
         <label for="name">Name:</label>
         <input type="text" id="name" name="name"><br>
         <label for="email">E-mail:</label>
@@ -16,10 +16,10 @@
         Major:<br>
         <?php 
         $majors  = [
-            'Computer Science',
-            'Web Design and Development',
-            'Computer Information Technology',
-            'Computer Engineering'
+            'cs' => 'Computer Science',
+            'wdd' => 'Web Design and Development',
+            'cit' => 'Computer Information Technology',
+            'ce' => 'Computer Engineering'
             ];
             foreach ($majors as $key => $value) {
                 echo "<label><input type='radio' name='major' value='$key'>$value</label><br>";
