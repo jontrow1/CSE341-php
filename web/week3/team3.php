@@ -13,7 +13,7 @@
         <input type="text" id="name" name="name"><br>
         <label for="email">E-mail:</label>
         <input type="text" id="email" name="email"><br>
-        >Major:<br>
+        Major:<br>
         <?php 
         $majors  = [
             'Computer Science',
@@ -21,11 +21,12 @@
             'Computer Information Technology',
             'Computer Engineering'
             ];
-            foreach ($major as $key => $value) {
+            foreach ($majors as $key => $value) {
                 echo "<label><input type='radio' name='major' value='$key'>$value</label><br>";
             }
         ?>            
         <label for="comments">Comments:</label>
+        <textarea id="comments" name="comments" rows="3"></textarea><br>
         Continents you have visited: <br>
         <label><input type="checkbox" name="continents[]" value="na">North America</label><br>
         <label><input type="checkbox" name="continents[]" value="sa">South America</label><br>
@@ -35,7 +36,6 @@
         <label><input type="checkbox" name="continents[]" value="af">Africa</label><br>
         <label><input type="checkbox" name="continents[]" value="an">Antartica</label><br>
 
-        <textarea id="comments" name="comments" rows="3"></textarea><br>
         <input type="submit" name="submit" value="Submit">        
     </form>
 </body>
